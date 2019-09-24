@@ -18,3 +18,7 @@ def get_budget(href):
         return budget_value
     else:
         return None
+
+
+if __name__ == '__main__':
+    print(123)
